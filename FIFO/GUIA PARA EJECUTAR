@@ -1,0 +1,4 @@
+Tenemos un comando ./actualizar.sh para actualizar todos los elementos de la plataforma a la vez
+Para ejecutar hay que lanzar  el ./controladora, el resto de .c es el codigo de cada robot.
+El robot Atornillado es el más comentado de todos.
+
